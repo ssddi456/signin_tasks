@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "sourceMap": false,
+        "outDir": "./output"
+    },
+    "files": [
+        "./typings/index.d.ts",
+        "./vote_for_saber_hbooker.ts"
+    ],
+    "exclude" : [
+        "./output",
+        "node_modules"
+    ]
+}
